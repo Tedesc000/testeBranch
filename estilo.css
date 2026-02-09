@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(85, 113, 113);
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+header{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+h2{
+    font-weight: bold;
+}
+
+main div{
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
